@@ -122,7 +122,7 @@ const sebastian = {
 
 <div align="center">
   <p>
-    <a href="https://linkedin.com/in/sebastianpinzon">
+    <a href="https://linkedin.com/in/sebastian-pinzon-reyes">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:sebastian.pinzon.3954@gmail.com">
